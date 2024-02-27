@@ -10,14 +10,14 @@ tiposDados = TiposDados()
 sobrenome = "Skywalker"
 nome = "Luke"
 
-print(f'Meu nome Ã© {nome} {sobrenome} e estou aqui para resgatÃ¡-la.')
+print(f'Meu nome é {nome} {sobrenome} e estou aqui para resgat-la.')
 
 sobrenome = "Solo"
 nome = "Han"
 
-print(f'Meu nome Ã© {nome} {sobrenome} e estou aqui para resgatÃ¡-la.')
+print(f'Meu nome é {nome} {sobrenome} e estou aqui para resgat-la.')
 
 nome = "Palpatine"
 PODER = "Ilimitado"
 
-print(f'Sou o imperador {nome} e meu poder Ã© {PODER}.')
+print(f'Sou o imperador {nome} e meu poder  {PODER}.')
